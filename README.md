@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arenxou
 - 👀 I’m interested in web and software development
-- 🌱 I’m currently learning arduino and c++
+- 🌱 I’m currently learning html and css
 - 📫 How to reach me: bignotia235@gmail.com
 
 <!---
